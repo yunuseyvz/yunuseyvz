@@ -1,15 +1,6 @@
 <h1 align="left" id="yunus-title">:wave: Hello there! I'm Yunus</h1>
 <h3 align="left">Student & Aspiring Software Engineer</h3>
 
-<p align="left">
-  <a href="https://yuemya.de">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fyuemya.de">
-  </a>
-  <a href="https://linkedin.com/in/yunuseyvz">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
-  </a>
-</p>
-
 :speech_balloon: &nbsp;I’m currently pursuing a master's degree in HCI
 
 :book: &nbsp;Learn more about my work on my **[portfolio](https://yuemya.de)**
