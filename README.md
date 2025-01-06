@@ -39,7 +39,7 @@
       <a href="#yunus-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="React" />
       </a>
-      <br>React
+      <br>Next.js
     </td>
     <td align="center" width="96">
       <a href="#yunus-tech">
